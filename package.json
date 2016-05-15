@@ -1,6 +1,6 @@
 {
   "name": "libconcurrency",
-  "version": "0.1.0-alpha",
+  "version": "0.1.1-alpha",
   "description": "Node concurrency abstraction.",
   "main": "index.js",
   "scripts": {
